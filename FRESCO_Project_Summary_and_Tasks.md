@@ -13,7 +13,7 @@
 * FRESCO v. FRAMES 
 * Modules with details 
 * Repositories 
-* Issues and Projects (LimnoTech/FRESCO repository 
+* Issues and Projects (LimnoTech/FRESCO repository) 
 
 ### Task 1 – Debug 
 * Explain that some of the issues are bug reports, then list the issues [Word table], then reference the GitHub site 
