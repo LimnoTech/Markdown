@@ -18,6 +18,8 @@
 ### Task 1 – Debug 
 * Explain that some of the issues are bug reports, then list the issues [Word table], then reference the GitHub site 
 * Summarize status – x debug issues, % open/closed 
+* Create Issue Spreadsheet in Excel from Issues list
+* Generate Markdown table from Excel Spreadsheet
  
 ### Task 2 – Test and evaluate 
 * Explain that some of the issues are feature requests, then list those issues, then reference GitHub 
