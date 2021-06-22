@@ -1,4 +1,4 @@
-| Issue | Issue Title | User Name | Labels | State | Milestone | Date Created |
+| Issue # | Issue Title | User Name | Labels | State | Milestone | Date Created |
 |--|--|--|--|--|--|--|
 | 1     | First step in refactoring code to change name to FRESCO and add new logo                                       | drucinski          |                        | closed        |                         | 2020-08-20T14:07:17Z |
 | 2     | Convert VB6 components to C#                                                                                   | tslawecki          | General Requirement    | open          | FRESCO v 1.0            | 2020-12-17T13:31:50Z |
