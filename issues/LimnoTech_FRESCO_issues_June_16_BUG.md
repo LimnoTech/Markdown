@@ -1,4 +1,4 @@
-| Issue | Title | User Name | Labels | State | Milestone | Date Created |
+| Issue | Issue Title | User Name | Labels | State | Milestone | Date Created |
 |--|--|--|--|--|--|--|
 | 16    | New folk add an issue                                                                                                | tslawecki          | bug                 | open          | FRESCO v 0.1            | 2020-12-23T18:01:06Z |
 | 45    | Plotting hydrologic time series in Excel locks up                                                                    | tslawecki          | bug                 | open          | FRESCO v 1.0            | 2021-01-07T18:01:45Z |
