@@ -1,5 +1,5 @@
-| Issue | Column1.title                                                                                                  | Column1.user.login | Column1.labels.name    | Column1.state | Column1.milestone.title | Column1.created_at   |
-|-------|----------------------------------------------------------------------------------------------------------------|--------------------|------------------------|---------------|-------------------------|----------------------|
+| Issue | Title | User Name | Labels | State | Milestone | Date Created |
+|--|--|--|--|--|--|--|
 | 1     | First step in refactoring code to change name to FRESCO and add new logo                                       | drucinski          |                        | closed        |                         | 2020-08-20T14:07:17Z |
 | 2     | Convert VB6 components to C#                                                                                   | tslawecki          | General Requirement    | open          | FRESCO v 1.0            | 2020-12-17T13:31:50Z |
 | 3     | Incorporate TREECS Arctic capabilities and C# ASAPP UI                                                         | tslawecki          | General Requirement    | open          | FRESCO v 1.0            | 2020-12-17T13:32:38Z |

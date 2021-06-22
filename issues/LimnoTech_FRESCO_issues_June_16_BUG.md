@@ -1,5 +1,5 @@
-| Issue | Column1.title                                                                                                        | Column1.user.login | Column1.labels.name | Column1.state | Column1.milestone.title | Column1.created_at   |
-|-------|----------------------------------------------------------------------------------------------------------------------|--------------------|---------------------|---------------|-------------------------|----------------------|
+| Issue | Title | User Name | Labels | State | Milestone | Date Created |
+|--|--|--|--|--|--|--|
 | 16    | New folk add an issue                                                                                                | tslawecki          | bug                 | open          | FRESCO v 0.1            | 2020-12-23T18:01:06Z |
 | 45    | Plotting hydrologic time series in Excel locks up                                                                    | tslawecki          | bug                 | open          | FRESCO v 1.0            | 2021-01-07T18:01:45Z |
 | 47    | Minor error warnings when save a .trp file in a directory with another .trp file                                     | MarkDortch         | bug                 | open          | FRESCO v 1.0            | 2021-01-14T17:15:52Z |
